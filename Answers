@@ -1,0 +1,12 @@
+I- Explain the difference between Relational Databases and SQL.
+A- Relational databases store related data while SQL is a query language used to access the data.
+
+II- Why do tables need a primary key?
+A- Tables need a primary key which is a unique identifiers that cannot be duplicated. 
+The primary key makes each record in the table unique, also can be used to access a table from other tables.
+
+III-  What is the name given to a table column that references the primary key on another table.
+A- The foreign key.
+
+IV- What do we need in order to have a many to many relationship between two tables.
+A- An intermediary table is needed to holds the foreign keys.
