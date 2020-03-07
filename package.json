@@ -1,0 +1,17 @@
+{
+    "name": "node-db4-project",
+    "version": "1.0.0",
+    "description": "Node DB 4 Challenge",
+    "main": "index.js",
+    "scripts": {
+        "server": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "LC",
+    "dependencies": {
+   
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
